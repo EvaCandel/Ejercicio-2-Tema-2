@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio 02/2-Tablas en HTML</title>
+</head>
+<body>
+<table>
+    <h3>Libros recomendados</h3>
+<tr>
+    <th>Título</th>
+    <th>Autor</th>
+    <th>Fecha de publicación</th>
+    <th>Enlace a Amazon</th>
+</tr>
+<tr>
+<td>Te dejé ir</td>
+<td>Clare Mackintosh</td>
+<td>2016</td>
+<td><a href="https://www.amazon.es/Te-dej%C3%A9-ir-Clare-Mackintosh-ebook/dp/B01ENWJNLC"
+    >Te dejé ir</a</td>
+</tr>
+<tr>
+    <td>Dispara, yo ya estoy muerto</td>
+    <td>Julia Navarro</td>
+    <td>2006</td>
+    <td><a href="https://www.amazon.es/Dispara-yo-ya-estoy-muerto-ebook/dp/B00DVQJ6QY/ref=sr_1_2?keywords=dispara+yo+ya+estoy+muerto&qid=1664181861&s=digital-text&sprefix=dispara+%2Cdigital-text%2C157&sr=1-2"
+        >Dispara, yo ya estoy muerto</a</td>
+    </tr>
+    <tr>
+        <td>Orgullo y prejuicio</td>
+        <td>Jane Austen</td>
+        <td>1813</td>
+        <td><a href="https://www.amazon.es/Orgullo-y-Prejuicio-Jane-Austen-ebook/dp/B09WR3879Y/ref=sr_1_4?keywords=orgullo+y+prejuicio&qid=1664181651&s=digital-text&sprefix=orgullo%2Cdigital-text%2C138&sr=1-4"
+            >Orgullo y prejuicio</a</td>
+        </tr>
+</table>
+</body>
+</html>
